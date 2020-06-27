@@ -88,7 +88,7 @@ email = "tiga.leunghoyin@gmail.com"
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "Find me in Linkedin", link = "https://www.linkedin.com/in/tiga-ho-yin-leung"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:iam.tiga"},
-  {icon = "cv", icon_pack = "ai", name = "Download my Resume", link = "https://drive.google.com/open?id=1p3lYEnZkjrqDCRr6ZlddApVJo1JxLhvg"}
+  {icon = "cv", icon_pack = "ai", name = "Download my Resume", link = "https://drive.google.com/file/d/1SCFAmJlukVrTNCLNwnek0y0R-hdfZhWx/view?usp=sharing"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
