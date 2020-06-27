@@ -49,7 +49,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/open?id=1p3lYEnZkjrqDCRr6ZlddApVJo1JxLhvg
+  link: https://drive.google.com/file/d/1SCFAmJlukVrTNCLNwnek0y0R-hdfZhWx/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tiga.leunghoyin@gmail.com"
