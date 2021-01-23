@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hong Kong"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-08-15"
   description = """Conducting research related to Indoor Navigation and Robot-Arm Grasping.
   Responsibilities include:
   * Conducting research in Robotic Grasp in the manner of Imitation Learn and Deep Reinforcement Learning
