@@ -63,13 +63,13 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am An MSc Student at Cranfield University studying Aerospace and Robotics.
+Hi! I am an MSc student at Cranfield University studying Aerospace and Robotics.
 
-My interests are intersect with robotics and mechatronics, artificial intelligence and control system.
+My interests intersect with robotics and mechatronics, artificial intelligence and control system.
 I am currently working on Learning off-road vehicle traversability using Semantic Segmentation and Deep Reinforcement Learning.
 
 Before going back to the University for my master studies, I have started my career by joining the Autonomous Driving Research team in
-SenseTime Group Limited as a Researcher Intern once I graduated from the Chinese University of Hong Kong in 2018. I was involved in researching and implementing different path planning and control algorithms, such as RRT-Star, Lattice Planner, Timed-Elastic-Band Trajectory Optimisation, PID control as well as Model Predictive Control. Besides, I was one of the main developers in the SenseRover Pro Project. SenseRover Pro is a 1:10 scale autonomous driving car that mimics the level-4 autonomous driving system, which was later commercialised as an educational product for different high schools in Hong Kong and Mainland China. 
+SenseTime Group Limited as a Researcher Intern once I graduated from the Chinese University of Hong Kong in 2018. I was involved in researching and implementing different path planning and control algorithms, such as RRT-Star, Lattice Planner, Timed-Elastic-Band Trajectory Optimisation, PID control as well as Model Predictive Control. Besides, I was one of the main developers in the SenseRover Pro Project. SenseRover Pro is a 1:10 scale autonomous driving car that mimics the level-4 autonomous driving system, which was later commercialised as an educational product for different high schools in Hong Kong and Mainland China.
 
 After working for a year, I switched to a more research-oriented job – Research Assistant at The Chinese University of Hong
 Kong. I was under the supervision of Prof. ZHOU Bolei in the Multimedia Lab (MMLab), which is one of the pioneering institutes
