@@ -40,7 +40,6 @@ url_pdf: "https://ras.papercept.net/proceedings/IROS20/2531.pdf"
 url_code: "https://github.com/pbw-Berwin/View-Parsing-Network"
 url_dataset:
 url_poster: "https://decisionforce.github.io/VPN/"
-url_project: "/project/Cross-view Semantic Segmentation for Sensing Surroundings/"
 url_slides:
 url_source:
 url_video: "https://decisionforce.github.io/VPN/View_Parsing_Network_files/demo_video.m4v"
